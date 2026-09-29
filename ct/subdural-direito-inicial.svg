@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <title>Subdural agudo direito — inicial</title>
+  <desc>Esquema axial em orientação radiológica: direita do paciente à esquerda da tela. Coleção crescente de 6 mm; desvio de 2 mm para a esquerda do paciente. Escala didática de 0,5 mm por unidade. Medidas inicial e evolutiva conforme slides 18 e 27 do MASTER PREMIUM FINAL; não é uma TC diagnóstica.</desc>
+  <defs><clipPath id="brain"><path d="M200 43 C51.0 43 51.0 357 200 357 C365 357 365 43 200 43Z"/></clipPath></defs>
+  <ellipse cx="200" cy="200" rx="142" ry="174" fill="#30363e"/>
+  <ellipse cx="200" cy="200" rx="135" ry="166" fill="#151a20" stroke="#d8dde1" stroke-width="9"/>
+  <path d="M200 43 C35 43 35 357 200 357 C365 357 365 43 200 43Z" fill="#363d44"/>
+  <path d="M200 43 C51.0 43 51.0 357 200 357 C365 357 365 43 200 43Z" fill="#7e858c"/>
+  <g clip-path="url(#brain)">
+    <ellipse cx="157.0" cy="200" rx="48.0" ry="119" fill="#70777f"/>
+    <ellipse cx="254" cy="200" rx="49" ry="119" fill="#70777f"/>
+    <g fill="none" stroke="#444c55" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+      <g transform="translate(12,0) scale(0.9368421052631579,1)"><path d="M184 64 Q160 71 162 91 L148 106"/><path d="M141 87 Q119 104 131 123 L117 138"/><path d="M112 132 Q99 153 115 166 L103 182"/><path d="M102 211 Q118 221 107 241 L120 258"/><path d="M122 267 Q112 283 139 298 L144 317"/><path d="M157 308 Q174 310 173 335"/></g>
+      <g transform="translate(400,0) scale(-1,1)"><path d="M184 64 Q160 71 162 91 L148 106"/><path d="M141 87 Q119 104 131 123 L117 138"/><path d="M112 132 Q99 153 115 166 L103 182"/><path d="M102 211 Q118 221 107 241 L120 258"/><path d="M122 267 Q112 283 139 298 L144 317"/><path d="M157 308 Q174 310 173 335"/></g>
+    </g>
+    <path d="M200 49 C200 105 204 141 204 200 L204 250 C204 296 200 323 200 351" fill="none" stroke="#c0c6cb" stroke-width="1.5"/>
+    <g transform="translate(4,0)" fill="#272f38">
+      <path d="M190 153 Q183 159 182 180 L175 210 Q178 219 190 231 L194 215 Q186 204 191 189Z"/>
+      <path d="M210 153 Q220 161 220 181 L228 211 Q224 224 210 233 L205 217 Q217 205 212 187Z"/>
+      <ellipse cx="200" cy="217" rx="3" ry="12"/>
+    </g>
+  </g>
+  <path d="M200 43 C35 43 35 357 200 357 C51.0 357 51.0 43 200 43Z" fill="#f1f3f5"/>
+</svg>
