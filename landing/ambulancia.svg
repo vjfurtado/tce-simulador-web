@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 200" width="360" height="200" role="img" aria-label="Ambulância">
+<title>Ambulância</title>
+<defs><filter id="m" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="2" seed="7"/><feDisplacementMap in="SourceGraphic" scale="1.6"/></filter></defs>
+<g filter="url(#m)" fill="none" stroke="#ffe7bd" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="180" cy="178" rx="170" ry="8" fill="#ffe7bd" fill-opacity="0.07" stroke="none"/>
+<path d="M 26,166 L 22,48 Q 22,40 30,40 L 236,40 L 236,62 L 282,62 Q 300,62 312,80 L 334,114 Q 340,124 340,136 L 340,160 Q 340,166 334,166 L 312,166"/>
+<path d="M 26,166 L 46,166 M 112,166 L 256,166"/>
+<path d="M 46,166 A 33,33 0 0 1 112,166 M 256,166 A 28,28 0 0 1 312,166" />
+<circle cx="79" cy="168" r="23"/><circle cx="79" cy="168" r="8"/>
+<circle cx="284" cy="168" r="23"/><circle cx="284" cy="168" r="8"/>
+<path d="M 236,62 L 236,166"/>
+<path d="M 246,72 L 280,72 Q 292,72 300,84 L 314,106 L 246,106 Z"/>
+<path d="M 26,128 L 340,128" stroke-width="3.84"/>
+<path d="M 140,48 L 140,160"/>
+<path d="M 76,64 L 92,64 L 92,80 L 108,80 L 108,96 L 92,96 L 92,112 L 76,112 L 76,96 L 60,96 L 60,80 L 76,80 Z"/>
+<rect x="244" y="50" width="36" height="12" rx="3"/>
+<path d="M 262,44 L 262,32 M 246,46 L 238,36 M 278,46 L 286,36 M 250,40 L 244,30 M 274,40 L 280,30" opacity="0.8"/>
+<path d="M 330,138 L 340,138 M 22,60 L 26,60"/>
+</g>
+</svg>

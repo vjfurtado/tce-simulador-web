@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 80" width="600" height="80" role="img" aria-label="Traçado de ECG">
+<title>Traçado de ECG</title>
+<defs><filter id="m" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="2" seed="7"/><feDisplacementMap in="SourceGraphic" scale="1"/></filter></defs>
+<g filter="url(#m)" fill="none" stroke="#ffe7bd" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M 0,50 L 30,50 Q 38,42 46,50 L 56,50 L 60,55 L 66,12 L 72,64 L 76,50 L 86,50 Q 98,34 110,50 L 142,50 Q 150,42 158,50 L 168,50 L 172,55 L 178,12 L 184,64 L 188,50 L 198,50 Q 210,34 222,50 L 254,50 Q 262,42 270,50 L 280,50 L 284,55 L 290,12 L 296,64 L 300,50 L 310,50 Q 322,34 334,50 L 366,50 Q 374,42 382,50 L 392,50 L 396,55 L 402,12 L 408,64 L 412,50 L 422,50 Q 434,34 446,50 L 478,50 Q 486,42 494,50 L 504,50 L 508,55 L 514,12 L 520,64 L 524,50 L 534,50 Q 546,34 558,50 L 600,50"/>
+</g>
+</svg>

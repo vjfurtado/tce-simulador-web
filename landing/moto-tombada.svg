@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200" role="img" aria-label="Motocicleta tombada no asfalto">
+<title>Motocicleta tombada no asfalto</title>
+<defs><filter id="m" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="2" seed="7"/><feDisplacementMap in="SourceGraphic" scale="1.6"/></filter></defs>
+<g filter="url(#m)" fill="none" stroke="#ffe7bd" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="200" cy="172" rx="182" ry="13" fill="#ffe7bd" fill-opacity="0.07" stroke="none"/>
+<ellipse cx="94" cy="148" rx="44" ry="22" transform="rotate(0 94 148)"/>
+<ellipse cx="94" cy="148" rx="34" ry="17" transform="rotate(0 94 148)"/>
+<ellipse cx="94" cy="148" rx="7" ry="3.5" transform="rotate(0 94 148)"/>
+<ellipse cx="314" cy="148" rx="44" ry="22" transform="rotate(-7 314 148)"/>
+<ellipse cx="314" cy="148" rx="34" ry="17" transform="rotate(-7 314 148)"/>
+<ellipse cx="314" cy="148" rx="7" ry="3.5" transform="rotate(-7 314 148)"/>
+<path d="M 94,148 L 164,139"/>
+<path d="M 98,152 L 166,143"/>
+<path d="M 154,142 L 219,144 L 236,130 L 212,119 L 164,121 L 146,131 L 154,142"/>
+<path d="M 174,138 L 182,124 M 190,139 L 198,123 M 206,140 L 214,123"/>
+<path d="M 276,106 L 212,118 M 276,108 L 236,130"/>
+<path d="M 204,117 L 226,106 L 254,103 L 272,108 L 266,116 L 210,118"/>
+<path d="M 124,119 L 164,115 L 202,114 L 204,118 L 164,120 L 126,123 L 124,119"/>
+<path d="M 124,120 L 78,118 L 68,115"/>
+<path d="M 52,134 L 74,124 L 110,121 L 136,127"/>
+<path d="M 164,140 L 126,145 L 58,141 M 164,144 L 126,149 L 58,145"/>
+<ellipse cx="56" cy="143" rx="4" ry="5" transform="rotate(0 56 143)"/>
+<path d="M 314,148 L 280,107 M 321,147 L 287,106"/>
+<path d="M 284,130 L 314,122 L 348,132"/>
+<ellipse cx="300" cy="108" rx="11" ry="5.5" transform="rotate(0 300 108)"/>
+<path d="M 276,105 L 262,65"/>
+<path d="M 262,67 L 256,51" stroke-width="12.4"/><path d="M 262,67 L 256,51" stroke="#0d0c09" stroke-width="7.6"/>
+<path d="M 266,73 L 284,61"/>
+<path d="M 330,166 L 344,161"/>
+<ellipse cx="354" cy="158" rx="11" ry="6" transform="rotate(-12 354 158)"/>
+<path d="M 348,154 L 354,159 L 351,163"/>
+<path d="M 164,141 L 166,125"/>
+<path d="M 374,168 l 9,-4 l 3,6 z M 386,176 l 7,-2 l -1,6 z M 362,176 l 6,1 l -4,4 z"/>
+<path d="M 30,180 L 120,178" stroke-dasharray="10 7" opacity="0.6"/>
+<path d="M 8,188 L 160,184" stroke-dasharray="16 9" opacity="0.45"/>
+</g>
+</svg>

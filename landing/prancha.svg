@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 364 100" width="364" height="100" role="img" aria-label="Prancha rígida com tirantes">
+<title>Prancha rígida com tirantes</title>
+<defs><filter id="m" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="2" seed="7"/><feDisplacementMap in="SourceGraphic" scale="1.6"/></filter></defs>
+<g filter="url(#m)" fill="none" stroke="#ffe7bd" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M 30,20 L 330,16 Q 352,16 352,36 L 352,64 Q 352,84 330,84 L 30,80 Q 10,78 10,58 L 10,42 Q 10,22 30,20 Z"/>
+<rect x="70" y="26" width="22" height="8" rx="4"/><rect x="70" y="66" width="22" height="8" rx="4"/><rect x="120" y="26" width="22" height="8" rx="4"/><rect x="120" y="66" width="22" height="8" rx="4"/><rect x="170" y="26" width="22" height="8" rx="4"/><rect x="170" y="66" width="22" height="8" rx="4"/><rect x="220" y="26" width="22" height="8" rx="4"/><rect x="220" y="66" width="22" height="8" rx="4"/><rect x="270" y="26" width="22" height="8" rx="4"/><rect x="270" y="66" width="22" height="8" rx="4"/>
+<rect x="22" y="30" width="16" height="14" rx="3"/><rect x="22" y="56" width="16" height="14" rx="3"/>
+<path d="M 110,20 L 160,82 M 160,18 L 110,82 M 240,18 L 250,84"/>
+<rect x="128" y="45" width="14" height="10" rx="2"/>
+</g>
+</svg>
