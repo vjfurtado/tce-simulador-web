@@ -1,5 +1,5 @@
 :HL["/tce-simulador-web/_next/static/media/8edf6d3506a17285-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/tce-simulador-web/_next/static/css/d2c72caf2ba1870f.css","style"]
+:HL["/tce-simulador-web/_next/static/css/9646b49c5034e93f.css","style"]
 :HL["/tce-simulador-web/_next/static/css/3632504065034ade.css","style"]
 :HL["/tce-simulador-web/_next/static/css/92bdba26d5f632d4.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"creditos","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"PztNAGHil5C9WcO_effx5"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"creditos","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"3flhD-0NtFRfic3LBVnG9"}
